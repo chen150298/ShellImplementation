@@ -1,4 +1,4 @@
-// chen larry 209192798
+// chen larry
 
 #include <stdio.h>
 #include <string.h>
